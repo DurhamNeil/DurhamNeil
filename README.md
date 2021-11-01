@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DurhamNeil
-- 👀 I’m interested in software defined network & intent based networking.
-- 🌱 I’m currently learning Travis CI, Puppet, Chef & Ansible (And right now, they are just random words. But they're random words Cisco needs me to know!)
+- 👀 I’m interested in intent based networking and infrastructure-as-code.
+- 🌱 I’m currently learning Ansible and Terraform.
 - 📫 How to reach me: neil.madden@gmail.com
 
 <!---
