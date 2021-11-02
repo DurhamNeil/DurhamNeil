@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DurhamNeil
-- 👀 I’m interested in intent based networking and infrastructure-as-code.
-- 🌱 I’m currently learning Ansible and Terraform.
+- 👀 I’m interested in network programmability and infrastructure-as-code.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: neil.madden@gmail.com
 
 <!---
